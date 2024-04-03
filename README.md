@@ -7,3 +7,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianebeatriz&hide_progress=true&theme=radical)
 ##
 
+Portfólio de UX/UI: https://lucianearaujoportfolio.framer.website/
