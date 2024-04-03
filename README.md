@@ -4,6 +4,6 @@
 - ⚡ Fun fact: Estou em processo de migração de carreira, possuo formação em Administração e agora estou cursando Desenvolvimento de Sistema
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianebeatriz&hide_progress=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianebeatriz&hide_progress=true&theme=radical)
 ##
 
